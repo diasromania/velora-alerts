@@ -1,14 +1,3 @@
 {
-  "alerts": [
-    {
-      "id": "1783344166972",
-      "type": "test",
-      "title": "test",
-      "description": "este de test nu va speriati va rog eu mult e de test",
-      "severity": "crit",
-      "area": "arad",
-      "timestamp": "2026-07-06T13:22:46.972Z",
-      "active": true
-    }
-  ]
+  "alerts": []
 }
