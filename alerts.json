@@ -1,6 +1,16 @@
 {
   "alerts": [
     {
+      "id": "1783348756361",
+      "type": "⛈️ Furtună",
+      "title": "t",
+      "description": "g",
+      "severity": "crit",
+      "area": "E",
+      "timestamp": "2026-07-06T14:39:16.361Z",
+      "active": true
+    },
+    {
       "id": "1783348720596",
       "type": "⛈️ Furtună",
       "title": "t",
