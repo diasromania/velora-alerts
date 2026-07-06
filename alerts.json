@@ -1,3 +1,14 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "id": "1783346031744",
+      "type": "⛈️ Furtună",
+      "title": "test",
+      "description": "test",
+      "severity": "crit",
+      "area": "test",
+      "timestamp": "2026-07-06T13:53:51.744Z",
+      "active": true
+    }
+  ]
 }
