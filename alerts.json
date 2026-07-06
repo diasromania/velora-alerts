@@ -1,3 +1,14 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "id": "1783345692264",
+      "type": "test",
+      "title": "test",
+      "description": "test",
+      "severity": "crit",
+      "area": "test",
+      "timestamp": "2026-07-06T13:48:12.264Z",
+      "active": true
+    }
+  ]
 }
